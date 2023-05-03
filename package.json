@@ -1,0 +1,22 @@
+{
+  "name": "youtubeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.16.3",
+    "memorystream": "^0.3.1",
+    "ytdl": "^1.4.1"
+  },
+  "devDependencies": {
+    "@types/fluent-ffmpeg": "^2.1.21",
+    "@types/memorystream": "^0.3.1",
+    "electron": "^24.1.3"
+  }
+}
